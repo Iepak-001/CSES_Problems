@@ -13,6 +13,7 @@ int main(){
     // Sum/2 find krna hai
 
     // agar sum/2 set me hai toh utha lo
+    
     // else extremes uthao 
     long long sum=(n*(n+1))/2;
 
